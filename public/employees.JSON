@@ -3,7 +3,7 @@
         "key": "B002RL8IYK",
         "designation": "Senior Web Developer",
         "name": "Golam Mustafa",
-        "salary": "80000",
+        "salary": 80000,
         "age": 40,
         "address": "Uttara",
         "img": "https://randomuser.me/api/portraits/men/77.jpg"
@@ -12,7 +12,7 @@
         "key": "B012RL8IYK",
         "designation": "Senior Web Developer",
         "name": "Md. Asaduzzaman",
-        "salary": "75000",
+        "salary": 75000,
         "age": 42,
         "address": "Banani",
         "img": "https://randomuser.me/api/portraits/men/75.jpg"
@@ -21,7 +21,7 @@
         "key": "B022RL8IYK",
         "designation": "Senior Web Developer",
         "name": "Rakabul Islam",
-        "salary": "80000",
+        "salary": 80000,
         "age": 35,
         "address": "Gulshan",
         "img": "https://randomuser.me/api/portraits/men/69.jpg"
@@ -30,7 +30,7 @@
         "key": "B032RL8IYK",
         "designation": "Front End Developer",
         "name": "Aminul Islam",
-        "salary": "60000",
+        "salary": 60000,
         "age": 30,
         "address": "Mirpur",
         "img": "https://randomuser.me/api/portraits/men/73.jpg"
@@ -39,7 +39,7 @@
         "key": "B042RL8IYK",
         "designation": "Front End Developer",
         "name": "Nayeem Hasan",
-        "salary": "55000",
+        "salary": 55000,
         "age": 32,
         "address": "Cumilla",
         "img": "https://randomuser.me/api/portraits/men/11.jpg"
@@ -48,7 +48,7 @@
         "key": "B052RL8IYK",
         "designation": "Front End Developer",
         "name": "Mahmudul Haque",
-        "salary": "58000",
+        "salary": 58000,
         "age": 29,
         "address": "Kalabagan",
         "img": "https://randomuser.me/api/portraits/men/50.jpg"
@@ -57,7 +57,7 @@
         "key": "B062RL8IYK",
         "designation": "Back End Developer",
         "name": "Rashed Minhaz",
-        "salary": "45000",
+        "salary": 45000,
         "age": 31,
         "address": "Rahshahi",
         "img": "https://randomuser.me/api/portraits/men/20.jpg"
@@ -66,7 +66,7 @@
         "key": "B072RL8IYK",
         "designation": "Back End Developer",
         "name": "Joyraj Sheikh",
-        "salary": "45000",
+        "salary": 45000,
         "age": 27,
         "address": "Sylhet",
         "img": "https://randomuser.me/api/portraits/men/32.jpg"
@@ -75,7 +75,7 @@
         "key": "B082RL8IYK",
         "designation": "Back End Developer",
         "name": "Suzat Ahmed",
-        "salary": "45000",
+        "salary": 45000,
         "age": 30,
         "address": "Chittagong",
         "img": "https://randomuser.me/api/portraits/men/35.jpg"
@@ -84,7 +84,7 @@
         "key": "B092RL8IYK",
         "designation": "Web Designer",
         "name": "Shafiqul Islam",
-        "salary": "35000",
+        "salary": 35000,
         "age": 28,
         "address": "Bhula",
         "img": "https://randomuser.me/api/portraits/men/40.jpg"
@@ -93,7 +93,7 @@
         "key": "B102RL8IYK",
         "designation": "Web Designer",
         "name": "Rawfir Islam",
-        "salary": "38000",
+        "salary": 38000,
         "age": 31,
         "address": "Khilkhet",
         "img": "https://randomuser.me/api/portraits/men/42.jpg"
@@ -102,7 +102,7 @@
         "key": "B112RL8IYK",
         "designation": "Web Designer",
         "name": "Alauddin Sakil",
-        "salary": "35000",
+        "salary": 35000,
         "age": 26,
         "address": "New Eskaton",
         "img": "https://randomuser.me/api/portraits/men/90.jpg"

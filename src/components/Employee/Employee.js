@@ -15,7 +15,7 @@ const Employee = (props) => {
                     <h4 className="card-text-class">Age: {age}</h4>
                     <h4 className="card-text-class">Address: {address}</h4>
                     <h4 className="card-text-class">Salary: {salary}</h4> <br />
-                    <button type="button" class="btn btn-warning"><i class="fas fa-user-plus"></i> Add To Team</button>
+                    <button onClick={() => props.handleAddToTeam(props.employee)} type="button" className="btn btn-warning"><i className="fas fa-user-plus"></i> Add To Team</button>
                 </div>
             </div>
         </div>
