@@ -1,0 +1,12 @@
+.card-text-class {
+    font-size: 16px;
+}
+.card-title-class{
+    color: #08aeac;
+}
+.title-span, .card-text-class{
+    color: #021533;
+}
+.card_body{
+    background-color: #f5f8f8d5;
+}

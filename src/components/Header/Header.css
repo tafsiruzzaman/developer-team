@@ -1,0 +1,11 @@
+.header-container {
+    text-align: center;
+    border-bottom: 1px solid gray;
+}
+.header-title {
+    font-size: 55px;
+    color: orange;
+}
+.first-span {
+    color: #101820FF;
+}
